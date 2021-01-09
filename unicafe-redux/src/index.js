@@ -14,6 +14,7 @@ const App = () => {
 
   return (
     <div>
+      'parp'
       <button onClick={good}>good</button> 
       <button>neutral</button> 
       <button>bad</button>
